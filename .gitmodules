@@ -1,0 +1,3 @@
+[submodule "ew401-fa2020-report"]
+	path = ew401-fa2020-report
+	url = git@github.com:usna-turtlebot-2021/ew401-fa2020-report.git
